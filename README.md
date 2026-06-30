@@ -24,7 +24,6 @@ This dashboard aims to answer key business questions such as:
 - How does freight cost vary over time?
 - How do route distance and freight cost correlate?
 
----
 
 ---
 
