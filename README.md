@@ -26,12 +26,6 @@ This dashboard aims to answer key business questions such as:
 
 ---
 
-## 📊 Dashboard Preview
-
-> *(Add your dashboard screenshot here after uploading it to the repository.)*
-
-![Dashboard Preview](assets/dashboard.png)
-
 ---
 
 ## 📌 Key Performance Indicators (KPIs)
